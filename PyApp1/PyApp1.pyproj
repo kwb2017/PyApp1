@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Person.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="PyApp1.py" />
     <Compile Include="PythonApp.py">
       <SubType>Code</SubType>

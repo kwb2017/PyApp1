@@ -11,7 +11,7 @@ def Gatherinfo():
             break
         elif(option == "y" or option == "Y"):
             name = input("Enter info: name.")
-            if Len(name)>0:
+            if len(name)>0:
                 id = id+1
                 AddInfo(id,name,True)
             continue

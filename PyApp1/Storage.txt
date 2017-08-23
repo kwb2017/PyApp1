@@ -4,3 +4,6 @@
 4,gto
 5,tiger
 6,leo
+7,iuipopoi
+8,shin
+9,chan
